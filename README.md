@@ -2,7 +2,7 @@
 
 Hierarchical RIME algorithm with multiple search preferences for extreme learning machine training
 
-Necessary packages: opfunu and enoppy.
+Necessary packages: opfunu, enoppy, mafese, and intelelm.  
 @article{Zhong:25,  
 title = {Hierarchical RIME algorithm with multiple search preferences for extreme learning machine training},  
 journal = {Alexandria Engineering Journal},  
